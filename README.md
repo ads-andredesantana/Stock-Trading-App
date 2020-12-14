@@ -1,6 +1,6 @@
 # Stock-Trading-App
 
-Building a trading app with Python using Alpaca API
+Building a trading bot app with Python using Alpaca API. A few strategies will be implemented to automate tradings. The website will have a secured session and charts to analize the companies listes on the S&P500 index.
 
 Technologies used:
 
